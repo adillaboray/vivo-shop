@@ -18,7 +18,7 @@
           <p class="right">全部订单 ></p>
         </div>
         <div class="container-order-2">
-          <p class v-for="list in container">
+          <p class v-for="list in container" :key="list">
             <img :src="list.img">
             <span>{{list.name}}</span>
           </p>

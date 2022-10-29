@@ -1,6 +1,6 @@
 <template>
   <div class="goodDetail" id="transitionName">
-    <v-header title="商品详情" :headerLeftStatus="headerLeftStatus" />
+    <v-header title="Rincian Produk" :headerLeftStatus="headerLeftStatus" />
     <div class="goodDetailList">
       <ul style="background: white;">
         <li v-for="(list, index) in goodDetails" :key="index">
@@ -12,7 +12,7 @@
             </mt-swipe>
           </div>
           <div class="goodDetailMain">
-            <div class="gooDetailNumber">商品编号：{{ list.number }}</div>
+            <div class="gooDetailNumber">Produk No.：{{ list.number }}</div>
             <div class="goodDetailName">{{ list.name }}</div>
             <div style="text-align: justify;font-size: 0.348rem;">
               <span style="margin-left:-.2rem;color:#FF4B3D;"
@@ -21,34 +21,36 @@
               {{ list.title }}
             </div>
             <div class="goodDetailColor">{{ list.color }}</div>
-            <div class="goodDetailPaid">￥{{ list.price }}</div>
+            <div class="goodDetailPaid">Rp. {{ list.price }}</div>
           </div>
           <div class="goodDetailValue">
-            <div class="_Value">购买数量：</div>
+            <div class="_Value">Total：</div>
             <div class="_cartNumber" style="margin-left: 2rem;">
               <a
                 href="javascript:;"
                 class="goodDetailReduce"
                 @click="reduceOrderValue(list)"
-                >-</a
               >
+                <span>-</span>
+              </a>
               <input type="text" v-model="list.value" readonly="readonly" />
               <a
                 href="javascript:;"
                 class="goodDetailAdd"
                 @click="addOrderValue(list)"
-                >+</a
               >
+                <span>+</span>
+              </a>
             </div>
           </div>
           <div class="category" @click="show = !show">
             <div class="category-con">
               <i class="iconfont icon-icon--"></i>
-              <p>支持花呗分期</p>
+              <p>Dukung pementasan Huabei</p>
             </div>
             <div class="category-con">
               <i class="iconfont icon-icon--"></i>
-              <p>支持以旧换新</p>
+              <p>Bisa tukar tambah</p>
             </div>
 
             <div class="category-rigth">
@@ -61,7 +63,7 @@
                 <div class="layer-box">
                   <div class="layer-box-left"></div>
                   <div class="layer-box-in">
-                    <h3>服务说明</h3>
+                    <h3>Deskripsi Layanan</h3>
                   </div>
                   <div class="layer-box-rigt" @click.stop="show = !show">
                     <i class="iconfont icon-cancel-1-copy"></i>
@@ -71,37 +73,39 @@
                   <div class="layer-box-2-1">
                     <div class="layer-box-title">
                       <i class="iconfont icon-icon--"></i>
-                      <h3>支持花呗分期</h3>
+                      <h3>Dukung pementasan Huabei</h3>
                     </div>
-                    <p>商品支持花呗分期</p>
+                    <p>Dukungan komoditas pementasan Huabei</p>
                   </div>
                   <div class="layer-box-2-1 top">
                     <div class="layer-box-title">
                       <i class="iconfont icon-icon--"></i>
-                      <h3>可以使用换新鼓励金</h3>
+                      <h3>Insentif pembaruan dapat digunakan</h3>
                     </div>
                     <p>
-                      换新鼓励金通过参加以旧换新回收旧手机以后获得，旧手机享受额外补贴。
-                      <router-link to="/change">现在换机 </router-link>
+                      Insentif penggantian diperoleh setelah berpartisipasi
+                      dalam tukar tambah dan daur ulang ponsel lama, dan ponsel
+                      lama menikmati subsidi tambahan.
+                      <router-link to="/change">Ubah Sekarang </router-link>
                     </p>
                   </div>
                 </div>
                 <div class="layer-box-button">
-                  <div>关闭</div>
+                  <div>Tutup</div>
                 </div>
               </div>
             </div>
           </transition>
           <div class="goodDetailBox">
             <mt-navbar v-model="selected">
-              <mt-tab-item id="tab-container1">图文详情</mt-tab-item>
-              <mt-tab-item id="tab-container2">参数</mt-tab-item>
+              <mt-tab-item id="tab-container1">Detail grafis</mt-tab-item>
+              <mt-tab-item id="tab-container2">Spesifikasi</mt-tab-item>
             </mt-navbar>
             <mt-tab-container v-model="selected" swipeable>
               <mt-tab-container-item id="tab-container1">
                 <div class="goodDetailImg">
                   <p v-for="(ov, index) in list.Images" :key="index">
-                    <img v-bind:src="ov.one" alt="详情图片" />
+                    <img v-bind:src="ov.one" alt="Gambar detail" />
                   </p>
                 </div>
               </mt-tab-container-item>
@@ -111,11 +115,27 @@
             </mt-tab-container>
           </div>
           <van-goods-action>
-            <van-goods-action-icon icon="chat-o" text="客服" />
-            <van-goods-action-icon icon="cart-o" text="购物车" :badge="$store.state.cart.carts.length" />
-            <van-goods-action-icon icon="star-o" text="收藏" @click="addCollection(list)"  />
-            <van-goods-action-button type="warning" text="加入购物车" @click="addCart(list)"/>
-            <van-goods-action-button type="danger" text="立即购买" @click="jumpPay(list)"  />
+            <van-goods-action-icon icon="chat-o" text="Tanya stok (WA)" />
+            <van-goods-action-icon
+              icon="cart-o"
+              text="Cart"
+              :badge="$store.state.cart.carts.length"
+            />
+            <van-goods-action-icon
+              icon="star-o"
+              text="Simpan"
+              @click="addCollection(list)"
+            />
+            <van-goods-action-button
+              type="warning"
+              text="Tambah ke keranjang"
+              @click="addCart(list)"
+            />
+            <van-goods-action-button
+              type="danger"
+              text="Beli sekarang!"
+              @click="jumpPay(list)"
+            />
           </van-goods-action>
         </li>
       </ul>
@@ -147,7 +167,7 @@ export default {
       list["value"]++;
     },
     reduceOrderValue(list, index) {
-      list["value"] == 1 ? Toast("不能在减了") : list["value"]--;
+      list["value"] == 1 ? Toast("Tidak bisa dikurangi") : list["value"]--;
     },
     shopDetailsData() {
       getData().then(res => {
@@ -161,8 +181,8 @@ export default {
     jumpPay(list) {
       if (!localStorage.getItem("user")) {
         MessageBox({
-          title: "检测到你还未授权登陆",
-          message: "是否前去登陆",
+          title: "Terdeteksi bahwa Anda tidak diizinkan untuk masuk",
+          message: "Apakah akan masuk?",
           showCancelButton: true
         }).then(res => {
           if (res == "confirm") {

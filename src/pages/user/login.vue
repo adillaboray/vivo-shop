@@ -5,24 +5,24 @@
         src="https://accountstatic.vivo.com.cn/accountstatic.vivo.com.cn/static/img/logo.3c33210.png.webp"
         alt
       >
-      <p>账号登陆</p>
+      <p>Login</p>
     </div>
     <div class="register-2">
       <label for>
-        <span>账号</span>
-        <input type="text" v-model="user.name" placeholder="请输入账号/用户名">
+        <span>Username</span>
+        <input type="text" v-model="user.name" placeholder="Silakan masukkan akun/nama pengguna">
       </label>
 
       <label for>
-        <span>密码</span>
-        <input type="password" v-model="user.password" placeholder="请输入密码">
+        <span>Password</span>
+        <input type="password" v-model="user.password" placeholder="Silakan masukkan kata sandi">
       </label>
     </div>
     <div class="register-3">
-      <input type="button" class="btn" @click="login" value="登陆">
+      <input type="button" class="btn" @click="login" value="Masuk">
     </div>
     <div class="register-3">
-      <input type="button" class="btn" @click="jumpRegister" value="注册">
+      <input type="button" class="btn" @click="jumpRegister" value="Daftar">
     </div>
   </div>
 </template>
@@ -44,7 +44,7 @@ export default {
     login() {
       if(!JSON.parse(localStorage.getItem('user'))) {
         Toast({
-          message: "用户不存在",
+          message: "pengguna tidak ada",
           duration: 950
         });
         return false
@@ -52,7 +52,7 @@ export default {
 
       if (this.user.name == "") {
         Toast({
-          message: "请输入用户名",
+          message: "silakan masukkan nama pengguna",
           duration: 950
         });
         return false
@@ -60,7 +60,7 @@ export default {
 
       if (this.user.password == "") {
         Toast({
-          message: "请输入密码",
+          message: "Silakan masukkan kata sandi",
           duration: 950
         });
         return false
@@ -68,7 +68,7 @@ export default {
 
       if (this.user.name != JSON.parse(localStorage.getItem('user')).name) {
         Toast({
-          message: "用户名不正确",
+          message: "Nama pengguna salah",
           duration: 950
         });
         return false
@@ -76,13 +76,13 @@ export default {
 
        if (this.user.password != JSON.parse(localStorage.getItem('user')).password) {
         Toast({
-          message: "密码不正确",
+          message: "kata kunci Salah",
           duration: 950
         });
         return false
       }
       Toast({
-        message: "登陆成功",
+        message: "Pendaratan yang sukses",
         duration: 950
       });
       this.$router.push("/main");

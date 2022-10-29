@@ -2,15 +2,15 @@
     "homeData": [
         {
             "id": 1,
-            "title": "精品专区",
+            "title": "Area Butik",
             "data": [
                 {
                     "id": 1,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/66/4266_1496689781362hd_530x530.png",
-                    "name": "Xplay6 128G版",
-                    "content": "后置双摄|免费镭射镌刻",
-                    "bright": "0首付0利息购机，购机赠豪礼",
-                    "title": "Xplay6 A 曲面2K屏，全曲面设计；6GB大运存，旗舰精品；骁龙820处理器，强劲核心；后置双摄，2400万感光单元，专业级虚化；超窄边框，超长续航。",
+                    "name": "Xplay6 Versi 128G",
+                    "content": "Kamera ganda belakang | pengukiran laser gratis",
+                    "bright": "0 uang muka dan 0 bunga untuk membeli mesin, membeli mesin dan memberikannya hadiah",
+                    "title": "Xplay6 Layar 2K melengkung, desain melengkung penuh; Penyimpanan besar 6GB, produk unggulan; Prosesor Snapdragon 820, inti yang kuat; kamera ganda belakang, 24 juta unit fotosensitif, blur tingkat profesional; bingkai ultra-sempit, masa pakai baterai yang lama.",
                     "price": "3998",
                     "value": "1",
                     "swiper": [
@@ -78,10 +78,10 @@
                 {
                     "id": 2,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/40/4440_1508723830538hd_530x530.png",
-                    "name": "X20Plus 全面屏",
-                    "content": "6.43英寸大屏|0.1s快速解锁",
-                    "bright": "4月21日0点-7月31日0点，感恩促销直降200，到手价2598",
-                    "title": "X20A 18:9高清全面屏，Face Wake面部识别，0.1s面部解锁，前后2x1200万像素，2400万感光单元。",
+                    "name": "X20Plus Full Screen",
+                    "content": "Layar besar 6,43 inci | buka kunci cepat 0,1 detik",
+                    "bright": "Dari 0:00 pada 21 April hingga 0:00 pada 31 Juli, promosi Thanksgiving akan turun 200, dan harganya menjadi 2598.",
+                    "title": "X20A 18:9 high-definition full screen, Face Wake face recognition, 0.1s face unlock, depan dan belakang 2x12 juta piksel, 24 juta unit fotosensitif.",
                     "price": "3498",
                     "value": "1",
                     "swiper": [
@@ -144,13 +144,13 @@
         },
         {
             "id": 2,
-            "title": "热卖专区",
+            "title": "Daerah Penjualan",
             "data": [
                 {
                     "id": 3,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/71/4171_1496689409434hd_530x530.png",
-                    "name": "X9Plus 全网通",
-                    "content": "优惠200元|限量促销",
+                    "name": "X9Plus Penuh Netcom",
+                    "content": "Diskon 200 rb|Promosi terbatas",
                     "swiper": [
                         {
                             "swipe": "https://shopstatic.vivo.com.cn/vivoshop/commodity/71/4171_1496689409434hd_530x530.png"
@@ -162,8 +162,8 @@
                             "swipe": "https://shopstatic.vivo.com.cn/vivoshop/commodity/71/4171_1482112377158_530x530.png"
                         }
                     ],
-                    "bright": "花呗免息，0首付0利率轻松购机",
-                    "title": "X9s Plus A 5.85英寸大屏，双引擎闪充，4015mAh大电池，持久续航（注：面部识别需升级到最新系统使用）",
+                    "bright": "Huabei bebas bunga, dengan 0 uang muka dan 0 tingkat bunga untuk pembelian mudah",
+                    "title": "X9s Plus Layar besar 5,85 inci, pengisian daya flash engine ganda, baterai besar 4015mAh, masa pakai baterai yang tahan lama (Catatan: pengenalan wajah perlu ditingkatkan ke sistem terbaru)",
                     "price": "2798",
                     "value": "1",
                     "Images": [
@@ -213,15 +213,15 @@
                             "one": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20170629/2017062914535078223_original.jpg"
                         }
                     ],
-                    "homePeizhi": "<h3>包装清单</h3><span>标配</span><p>X9s Plus A *1 </p><p>取卡针 *1 </p><p>XE680线控耳机 *1</p><p>闪充充电头 *1</p><p>USB数据线</p><p>透明后盖保护壳 *1</p><p>快速入门指南 *1</p><p>重要信息和保修卡</p><h3>其他参数</h3><div><p>CPU</p><p>高通骁龙八核MSM8976SG（MSM8976pro</p></div>"
+                    "homePeizhi": "<h3>Daftar Kemasan</h3><span>Standar</span><p>X9s Plus A *1 </p><p>Ambil pin kartu *1 </p><p>Headphone Kontrol Kawat XE680 *1</p><p>Kepala pengisian flash *1</p><p>kabel data usb</p><p>Cangkang pelindung penutup belakang transparan *1</p><p>Panduan memulai cepat *1</p><p>Informasi penting dan kartu garansi</p><h3>Parameter lainnya</h3><div><p>CPU</p><p>Qualcomm Snapdragon octa-core MSM8976SG (MSM8976pro)</p></div>"
                 },
                 {
                     "id": 4,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/95/4495_1509454710945hd_530x530.png",
-                    "name": "Y69 全面屏手机",
-                    "content": "前置2400万像素",
-                    "bright": "4月24日—5月1日，购机加赠爱奇艺VIP月卡；直降200元促销，到手价999",
-                    "title": "Y69A 32GB内存，前置1600万柔光自拍，正面指纹解锁，一体式机身设计，分屏多任务。",
+                    "name": "Y69 Ponsel Layar Penuh",
+                    "content": "24 juta piksel depan",
+                    "bright": "Dari 24 April hingga 1 Mei, beli kartu bulanan VIP iQiyi; dapatkan diskon langsung 200 yuan, dan harganya 999",
+                    "title": "Memori Y69A 32GB, selfie depan 16 juta soft light, buka kunci sidik jari depan, desain bodi terintegrasi, multi-tasking layar terpisah.",
                     "price": "2498",
                     "value": "1",
                     "swiper": [
@@ -289,10 +289,10 @@
                 {
                     "id": 5,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/40/4440_1508723830538hd_530x530.png",
-                    "name": "X20Plus 全面屏",
-                    "content": "6.43英寸大屏|0.1s快速解锁",
-                    "bright": "4月21日0点-7月31日0点，感恩促销直降200，到手价2598",
-                    "title": "X20A 18:9高清全面屏，Face Wake面部识别，0.1s面部解锁，前后2x1200万像素，2400万感光单元。",
+                    "name": "Layar penuh X20Plus",
+                    "content": "Layar besar 6,43 inci | buka kunci cepat 0,1 detik",
+                    "bright": "Dari 0:00 pada 21 April hingga 0:00 pada 31 Juli, promosi Thanksgiving akan turun 200, dan harganya menjadi 2598.",
+                    "title": "X20A 18:9 high-definition full screen, Face Wake face recognition, 0.1s face unlock, depan dan belakang 2x12 juta piksel, 24 juta unit fotosensitif.",
                     "price": "3498",
                     "value": "1",
                     "swiper": [
@@ -354,10 +354,10 @@
                 {
                     "id": 6,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/66/4266_1496689781362hd_530x530.png",
-                    "name": "Xplay6 128G版",
-                    "content": "后置双摄|免费镭射镌刻",
-                    "bright": "0首付0利息购机，购机赠豪礼",
-                    "title": "Xplay6 A 曲面2K屏，全曲面设计；6GB大运存，旗舰精品；骁龙820处理器，强劲核心；后置双摄，2400万感光单元，专业级虚化；超窄边框，超长续航。",
+                    "name": "Versi Xplay6 128G",
+                    "content": "Kamera ganda belakang | pengukiran laser gratis",
+                    "bright": "0 uang muka dan 0 bunga untuk membeli mesin, membeli mesin dan memberikannya hadiah",
+                    "title": "Xplay6 Layar 2K melengkung, desain melengkung penuh; Penyimpanan besar 6GB, produk unggulan; Prosesor Snapdragon 820, inti yang kuat; kamera ganda belakang, 24 juta unit fotosensitif, blur tingkat profesional; bingkai ultra-sempit, masa pakai baterai yang lama.",
                     "price": "3998",
                     "value": "1",
                     "swiper": [
@@ -425,10 +425,10 @@
                 {
                     "id": 7,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/11/4111_1492998667334hd_530x530.png",
-                    "name": "Y55 全网通",
-                    "content": "大屏美颜自拍",
-                    "bright": "截止至5月2日，Y55优惠100元促销",
-                    "title": "Y55A 八核处理器，大屏美颜自拍，双卡全网通，支持128GB扩展内存，弧面玻璃，超薄机身",
+                    "name": "Y55 Netcom",
+                    "content": "Selfie kecantikan layar lebar",
+                    "bright": "Mulai 2 Mei, diskon Y55 dari promosi 100 yuan",
+                    "title": "Prosesor octa-core Y55A, selfie kecantikan layar besar, Netcom penuh dual-SIM, mendukung memori tambahan 128GB, kaca melengkung, bodi ultra-tipis",
                     "price": "1098",
                     "value": "1",
                     "swiper": [
@@ -490,10 +490,10 @@
                 {
                     "id": 8,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/80/4180_1496689544465hd_530x530.png",
-                    "name": "Y66 全网通",
-                    "content": "5.5英寸大屏|支持花呗分期",
-                    "bright": "5.5英寸高清大屏，性价比优选",
-                    "title": "Y66A手机，3GB运存+32GB内存，后置1300万像素，5000万超清合成；3000mAh大电池，持续流畅！",
+                    "name": "Y66 Netcom",
+                    "content": "Layar besar 5,5 inci | Mendukung pementasan Huabei",
+                    "bright": "Layar besar definisi tinggi 5,5 inci, kinerja biaya optimal",
+                    "title": "Ponsel Y66A, penyimpanan 3GB + memori 32GB, 13 juta piksel belakang, 50 juta sintesis ultra-jernih; Baterai besar 3000mAh, kelancaran berkelanjutan!",
                     "price": "1298",
                     "value": "1",
                     "swiper": [
@@ -559,15 +559,15 @@
         },
         {
             "id": 3,
-            "title": "手机配件",
+            "title": "Aksesori ponsel",
             "data": [
                 {
                     "id": 9,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/27/5027_1526972514378hd_250x250.png",
-                    "name": "乐心手环",
-                    "content": "【首发价239，领券再减20，前50名下单用户送体脂秤】",
-                    "bright": "首发价239，领券再减20，前50名下单用户送体脂秤",
-                    "title": "全天24小时心率监测，支持12项运动模式全纪录，超长续航，IP68级防水。中奖用户体脂秤将在5月31日前单独发出。",
+                    "name": "Gelang Happy Heart",
+                    "content": "【Harga awal adalah 239, dan kupon dikurangi 20. 50 pengguna teratas yang memesan akan mendapatkan timbangan lemak tubuh】",
+                    "bright": "Harga awal adalah 239, dan kupon dikurangi 20. 50 pengguna teratas yang memesan akan mendapatkan timbangan lemak tubuh",
+                    "title": "Pemantauan detak jantung 24 jam sehari, dukungan rekaman penuh untuk 12 mode olahraga, masa pakai baterai yang lama, tahan air IP68. Timbangan lemak tubuh untuk pengguna yang menang akan dikeluarkan secara terpisah sebelum 31 Mei.",
                     "value": "1",
                     "price": "239",
                     "swiper": [
@@ -623,10 +623,10 @@
                 {
                     "id": 8,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/4020_1481558694236_530x530.png",
-                    "name": "vivo原装闪充充电器",
-                    "content": "vivo原装旅行充电头，支持双引擎闪充，不含数据线（ 不支持X9Plus/X20Plus低压闪充",
-                    "bright": "vivo原装闪充充电器-9V/2A快充",
-                    "title": "vivo原装旅行充电头，支持双引擎闪充，不含数据线（ 不支持X9Plus/X20Plus低压闪充 ）",
+                    "name": "Vivo Charger Original",
+                    "content": "Kepala pengisian daya perjalanan asli Vivo, mendukung pengisian daya lampu kilat mesin ganda, tanpa kabel data (tidak mendukung pengisian daya lampu kilat tegangan rendah X9Plus/X20Plus",
+                    "bright": "Pengisi daya flash asli Vivo-9V/2A pengisian cepat",
+                    "title": "Kepala pengisian daya perjalanan asli Vivo, mendukung pengisian daya lampu kilat mesin ganda, tanpa kabel data (tidak mendukung pengisian daya lampu kilat tegangan rendah X9Plus/X20Plus)",
                     "value": "1",
                     "price": "85",
                     "swiper": [
@@ -670,10 +670,10 @@
                 {
                     "id": 9,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/82/1882_1481558960471_530x530.png",
-                    "name": "vivo XE600i 原装音乐耳机",
-                    "content": "【直降10元，限时促销】vivo原装HiFi耳机，适配全部vivo机型；三频均衡，让音乐更震撼；入耳式设计，有效阻隔噪音，尽享音乐时光；轻量化设计，佩戴舒适！",
-                    "bright": "直降10元，限时促销",
-                    "title": "vivo原装旅行充电头，支持双引擎闪充，不含数据线（ 不支持X9Plus/X20Plus低压闪充 ）",
+                    "name": "Vivo XE600i Headphone MUsik Original",
+                    "content": "【Langsung 10 yuan, promosi waktu terbatas] vivo headset HiFi asli, cocok untuk semua model vivo; tiga band seimbang, membuat musik lebih mengejutkan; desain in-ear, efektif memblokir kebisingan, nikmati waktu musik; desain ringan, nyaman dipakai!",
+                    "bright": "10 yuan lurus ke bawah, promosi waktu terbatas",
+                    "title": "Kepala pengisian daya perjalanan asli Vivo, mendukung pengisian daya lampu kilat mesin ganda, tanpa kabel data (tidak mendukung pengisian daya lampu kilat tegangan rendah X9Plus/X20Plus)",
                     "value": "1",
                     "price": "89",
                     "swiper": [
@@ -711,10 +711,10 @@
                 {
                     "id": 10,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/73/4273_1491007460873hd_250x250.png",
-                    "name": "vivo原装闪充数据线—2A电流输出",
-                    "content": "【限时包邮】X9Plus、X20Plus专用原装闪充数据线，闪充功能需搭配原装低压闪充充电器使用。温馨提示：除X9Plus、X20Plus外其他机型无闪充功能",
-                    "bright": "【限时包邮】",
-                    "title": "X系列，XPlay系列机型原装闪充数据线（注：不支持X9Plus/X20Plus闪充），充电更快速。由于销量火爆，付款订单将按照支付顺序7天内发货！",
+                    "name": "Kabel data pengisian daya flash asli Vivo—output arus 2A",
+                    "content": "[Pengiriman gratis terbatas] X9Plus, X20Plus kabel data pengisian flash asli khusus, fungsi pengisian flash perlu digunakan dengan charger pengisian flash tegangan rendah asli. Pengingat: Kecuali X9Plus dan X20Plus, model lain tidak memiliki fungsi pengisian daya flash",
+                    "bright": "[Pengiriman gratis terbatas]",
+                    "title": "Seri X, model seri XPY kabel data pengisian daya flash asli (Catatan: pengisian daya flash X9Plus/X20Plus tidak didukung), pengisian daya lebih cepat. Karena penjualan panas, pesanan pembayaran akan dikirim dalam waktu 7 hari sesuai dengan urutan pembayaran!",
                     "value": "1",
                     "price": "29",
                     "swiper": [
@@ -737,10 +737,10 @@
                 {
                     "id": 11,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/4183_1482921083765_530x530.png",
-                    "name": "vivo X9原装柔性钢化膜",
-                    "content": "【限时包邮】X9原装柔性钢化膜，两片装，平面贴膜，2.5D弧面位置不在贴膜覆盖范围，适用X9s、X9机型",
-                    "bright": "限时包邮",
-                    "title": "X9原装保护膜，两片装，平面贴膜，2.5D弧面位置不在贴膜覆盖范围，适用X9 Plus机型",
+                    "name": "vivo X9 asli film tempered fleksibel",
+                    "content": "[Pengiriman gratis terbatas] X9 asli film yang dikeraskan fleksibel, dua potong, film datar, permukaan busur 2.5D tidak tercakup oleh film, cocok untuk model X9s, X9",
+                    "bright": "Bebas biaya kirim",
+                    "title": "Film pelindung asli X9, dua potong, film datar, posisi busur 2.5D tidak tercakup oleh film, cocok untuk model X9 Plus",
                     "value": "1",
                     "price": "29",
                     "swiper": [
@@ -784,10 +784,10 @@
                 {
                     "id": 12,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/81/4181_1482720908043_250x250.png",
-                    "name": "vivo Xplay6原装3D高清保护膜",
-                    "content": "【限时包邮】【两片装】请先观看详情中贴膜教程视频，按照教程贴膜",
-                    "bright": "限时包邮,两片装",
-                    "title": "原装保护膜，两片装，平面贴膜，2.5D弧面位置不在贴膜覆盖范围，适用vivo Xplay6机型",
+                    "name": "vivo Xplay6 film pelindung 3D HD asli",
+                    "content": "[Pengiriman gratis terbatas] [Dua potong] Silakan tonton video tutorial pembuatan film secara detail, dan ikuti tutorial untuk memfilmkan",
+                    "bright": "Pengiriman gratis untuk waktu terbatas, dua potong",
+                    "title": "Film pelindung asli, dua potong, film datar, posisi busur 2.5D tidak tercakup oleh film, cocok untuk model vivo Xplay6",
                     "value": "1",
                     "price": "39",
                     "swiper": [
@@ -834,15 +834,15 @@
     "accessories": [
         {
             "id": 1,
-            "name": "全部",
+            "name": "semua",
             "data": [
                 {
                     "id": 9,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/27/5027_1526972514378hd_250x250.png",
-                    "name": "乐心手环",
-                    "content": "【首发价239，领券再减20，前50名下单用户送体脂秤】",
-                    "bright": "首发价239，领券再减20，前50名下单用户送体脂秤",
-                    "title": "全天24小时心率监测，支持12项运动模式全纪录，超长续航，IP68级防水。中奖用户体脂秤将在5月31日前单独发出。",
+                    "name": "Gelang Happy Heart",
+                    "content": "[Harga awal adalah 239, dan kupon dikurangi 20, dan 50 pengguna teratas yang memesan akan mendapatkan timbangan lemak tubuh]",
+                    "bright": "Harga awal adalah 239, dan kupon dikurangi 20. 50 pengguna teratas yang memesan akan mendapatkan timbangan lemak tubuh",
+                    "title": "Pemantauan detak jantung 24 jam sehari, catatan lengkap dari 12 mode olahraga didukung, masa pakai baterai yang lama, tahan air IP68. Timbangan lemak tubuh untuk pengguna yang menang akan dikeluarkan secara terpisah sebelum 31 Mei.",
                     "value": "1",
                     "price": "239",
                     "swiper": [
@@ -898,10 +898,10 @@
                 {
                     "id": 8,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/4020_1481558694236_530x530.png",
-                    "name": "vivo原装闪充充电器",
-                    "content": "vivo原装旅行充电头，支持双引擎闪充，不含数据线（ 不支持X9Plus/X20Plus低压闪充",
-                    "bright": "vivo原装闪充充电器-9V/2A快充",
-                    "title": "vivo原装旅行充电头，支持双引擎闪充，不含数据线（ 不支持X9Plus/X20Plus低压闪充 ）",
+                    "name": "Pengisi daya flash asli vivo",
+                    "content": "Kepala pengisian daya perjalanan asli Vivo, mendukung pengisian daya lampu kilat mesin ganda, tanpa kabel data (tidak mendukung pengisian daya lampu kilat tegangan rendah X9Plus/X20Plus",
+                    "bright": "Pengisi daya flash asli Vivo-9V/2A pengisian cepat",
+                    "title": "Kepala pengisian daya perjalanan asli Vivo, mendukung pengisian daya lampu kilat mesin ganda, tanpa kabel data (tidak mendukung pengisian daya lampu kilat tegangan rendah X9Plus/X20Plus)",
                     "value": "1",
                     "price": "85",
                     "swiper": [
@@ -945,10 +945,10 @@
                 {
                     "id": 9,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/82/1882_1481558960471_530x530.png",
-                    "name": "vivo XE600i 原装音乐耳机",
-                    "content": "【直降10元，限时促销】vivo原装HiFi耳机，适配全部vivo机型；三频均衡，让音乐更震撼；入耳式设计，有效阻隔噪音，尽享音乐时光；轻量化设计，佩戴舒适！",
-                    "bright": "直降10元，限时促销",
-                    "title": "vivo原装旅行充电头，支持双引擎闪充，不含数据线（ 不支持X9Plus/X20Plus低压闪充 ）",
+                    "name": "vivo XE600i headphone musik asli",
+                    "content": "[Langsung turun 10 yuan, promosi waktu terbatas] vivo headset HiFi asli, cocok untuk semua model vivo; tiga band seimbang, membuat musik lebih mengejutkan; desain in-ear, efektif memblokir kebisingan, menikmati waktu musik; desain ringan, nyaman dipakai !",
+                    "bright": "10 yuan lurus ke bawah, promosi waktu terbatas",
+                    "title": "Kepala pengisian daya perjalanan asli Vivo, mendukung pengisian daya lampu kilat mesin ganda, tanpa kabel data (tidak mendukung pengisian daya lampu kilat tegangan rendah X9Plus/X20Plus)",
                     "value": "1",
                     "price": "89",
                     "swiper": [
@@ -986,10 +986,10 @@
                 {
                     "id": 10,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/73/4273_1491007460873hd_250x250.png",
-                    "name": "vivo原装闪充数据线—2A电流输出",
-                    "content": "【限时包邮】X9Plus、X20Plus专用原装闪充数据线，闪充功能需搭配原装低压闪充充电器使用。温馨提示：除X9Plus、X20Plus外其他机型无闪充功能",
-                    "bright": "【限时包邮】",
-                    "title": "X系列，XPlay系列机型原装闪充数据线（注：不支持X9Plus/X20Plus闪充），充电更快速。由于销量火爆，付款订单将按照支付顺序7天内发货！",
+                    "name": "Kabel data pengisian daya flash asli Vivo—output arus 2A",
+                    "content": "[Pengiriman gratis terbatas] X9Plus, X20Plus kabel data pengisian flash asli khusus, fungsi pengisian flash perlu digunakan dengan charger pengisian flash tegangan rendah asli. Pengingat: Kecuali X9Plus dan X20Plus, model lain tidak memiliki fungsi pengisian daya flash",
+                    "bright": "[Pengiriman gratis terbatas]",
+                    "title": "Seri X, model seri XPY kabel data pengisian daya flash asli (Catatan: pengisian daya flash X9Plus/X20Plus tidak didukung), pengisian daya lebih cepat. Karena penjualan panas, pesanan pembayaran akan dikirim dalam waktu 7 hari sesuai dengan urutan pembayaran!",
                     "value": "1",
                     "price": "29",
                     "swiper": [
@@ -1012,10 +1012,10 @@
                 {
                     "id": 11,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/4183_1482921083765_530x530.png",
-                    "name": "vivo X9原装柔性钢化膜",
-                    "content": "【限时包邮】X9原装柔性钢化膜，两片装，平面贴膜，2.5D弧面位置不在贴膜覆盖范围，适用X9s、X9机型",
-                    "bright": "限时包邮",
-                    "title": "X9原装保护膜，两片装，平面贴膜，2.5D弧面位置不在贴膜覆盖范围，适用X9 Plus机型",
+                    "name": "vivo X9 asli film tempered fleksibel",
+                    "content": "[Pengiriman gratis terbatas] X9 asli film yang dikeraskan fleksibel, dua potong, film datar, permukaan busur 2.5D tidak tercakup oleh film, cocok untuk model X9s, X9",
+                    "bright": "Bebas biaya kirim",
+                    "title": "Film pelindung asli X9, dua potong, film datar, posisi busur 2.5D tidak tercakup oleh film, cocok untuk model X9 Plus",
                     "value": "1",
                     "price": "29",
                     "swiper": [
@@ -1059,10 +1059,10 @@
                 {
                     "id": 12,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/81/4181_1482720908043_250x250.png",
-                    "name": "vivo Xplay6原装3D高清保护膜",
-                    "content": "【限时包邮】【两片装】请先观看详情中贴膜教程视频，按照教程贴膜",
-                    "bright": "限时包邮,两片装",
-                    "title": "原装保护膜，两片装，平面贴膜，2.5D弧面位置不在贴膜覆盖范围，适用vivo Xplay6机型",
+                    "name": "vivo Xplay6 film pelindung 3D HD asli",
+                    "content": "[Pengiriman gratis terbatas] [Dua potong] Silakan tonton video tutorial pembuatan film secara detail, dan ikuti tutorial untuk memfilmkan",
+                    "bright": "Pengiriman gratis untuk waktu terbatas, dua potong",
+                    "title": "Film pelindung asli, dua potong, film datar, posisi busur 2.5D tidak tercakup oleh film, cocok untuk model vivo Xplay6",
                     "value": "1",
                     "price": "39",
                     "swiper": [
@@ -1107,15 +1107,15 @@
         },
         {
             "id": 2,
-            "name": "充电器",
+            "name": "Charger",
             "data": [
                 {
                     "id": 10,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/20/4020_1481558694236_530x530.png",
-                    "name": "vivo原装闪充充电器",
-                    "content": "vivo原装旅行充电头，支持双引擎闪充，不含数据线（ 不支持X9Plus/X20Plus低压闪充",
-                    "bright": "vivo原装闪充充电器-9V/2A快充",
-                    "title": "vivo原装旅行充电头，支持双引擎闪充，不含数据线（ 不支持X9Plus/X20Plus低压闪充 ）",
+                    "name": "Pengisi daya flash asli vivo",
+                    "content": "Kepala pengisian daya perjalanan asli Vivo, mendukung pengisian daya lampu kilat mesin ganda, tanpa kabel data (tidak mendukung pengisian daya lampu kilat tegangan rendah X9Plus/X20Plus",
+                    "bright": "Pengisi daya flash asli Vivo-9V/2A pengisian cepat",
+                    "title": "Kepala pengisian daya perjalanan asli Vivo, mendukung pengisian daya lampu kilat mesin ganda, tanpa kabel data (tidak mendukung pengisian daya lampu kilat tegangan rendah X9Plus/X20Plus)",
                     "value": "1",
                     "price": "85",
                     "swiper": [
@@ -1159,10 +1159,10 @@
                 {
                     "id": 10,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/73/4273_1491007460873hd_250x250.png",
-                    "name": "vivo原装闪充数据线—2A电流输出",
-                    "content": "【限时包邮】X9Plus、X20Plus专用原装闪充数据线，闪充功能需搭配原装低压闪充充电器使用。温馨提示：除X9Plus、X20Plus外其他机型无闪充功能",
-                    "bright": "【限时包邮】",
-                    "title": "X系列，XPlay系列机型原装闪充数据线（注：不支持X9Plus/X20Plus闪充），充电更快速。由于销量火爆，付款订单将按照支付顺序7天内发货！",
+                    "name": "Kabel data pengisian daya flash asli Vivo—output arus 2A",
+                    "content": "[Pengiriman gratis terbatas] X9Plus, X20Plus kabel data pengisian flash asli khusus, fungsi pengisian flash perlu digunakan dengan charger pengisian flash tegangan rendah asli. Pengingat: Kecuali X9Plus dan X20Plus, model lain tidak memiliki fungsi pengisian daya flash",
+                    "bright": "[Pengiriman gratis terbatas]",
+                    "title": "Seri X, model seri XPY kabel data pengisian daya flash asli (Catatan: pengisian daya flash X9Plus/X20Plus tidak didukung), pengisian daya lebih cepat. Karena penjualan panas, pesanan pembayaran akan dikirim dalam waktu 7 hari sesuai dengan urutan pembayaran!",
                     "value": "1",
                     "price": "29",
                     "swiper": [
@@ -1186,15 +1186,15 @@
         },
         {
             "id": 3,
-            "name": "保护膜",
+            "name": "Tempered Glass",
             "data": [
                 {
                     "id": 11,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/83/4183_1482921083765_530x530.png",
-                    "name": "vivo X9原装柔性钢化膜",
-                    "content": "【限时包邮】X9原装柔性钢化膜，两片装，平面贴膜，2.5D弧面位置不在贴膜覆盖范围，适用X9s、X9机型",
-                    "bright": "限时包邮",
-                    "title": "X9原装保护膜，两片装，平面贴膜，2.5D弧面位置不在贴膜覆盖范围，适用X9 Plus机型",
+                    "name": "vivo X9 asli film tempered fleksibel",
+                    "content": "[Pengiriman gratis terbatas] X9 asli film yang dikeraskan fleksibel, dua potong, film datar, permukaan busur 2.5D tidak tercakup oleh film, cocok untuk model X9s, X9",
+                    "bright": "Bebas biaya kirim",
+                    "title": "Film pelindung asli X9, dua potong, film datar, posisi busur 2.5D tidak tercakup oleh film, cocok untuk model X9 Plus",
                     "value": "1",
                     "price": "29",
                     "swiper": [
@@ -1238,10 +1238,10 @@
                 {
                     "id": 12,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/81/4181_1482720908043_250x250.png",
-                    "name": "vivo Xplay6原装3D高清保护膜",
-                    "content": "【限时包邮】【两片装】请先观看详情中贴膜教程视频，按照教程贴膜",
-                    "bright": "限时包邮,两片装",
-                    "title": "原装保护膜，两片装，平面贴膜，2.5D弧面位置不在贴膜覆盖范围，适用vivo Xplay6机型",
+                    "name": "vivo Xplay6 film pelindung 3D HD asli",
+                    "content": "[Pengiriman gratis terbatas] [Dua potong] Silakan tonton video tutorial pembuatan film secara detail, dan ikuti tutorial untuk memfilmkan",
+                    "bright": "Pengiriman gratis untuk waktu terbatas, dua potong",
+                    "title": "Film pelindung asli, dua potong, film datar, posisi busur 2.5D tidak tercakup oleh film, cocok untuk model vivo Xplay6",
                     "value": "1",
                     "price": "39",
                     "swiper": [
@@ -1286,15 +1286,15 @@
         },
         {
             "id": 4,
-            "name": "耳机音响",
+            "name": "Eear Phone",
             "data": [
                 {
                     "id": 12,
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/82/1882_1481558960471_530x530.png",
-                    "name": "vivo XE600i 原装音乐耳机",
-                    "content": "【直降10元，限时促销】vivo原装HiFi耳机，适配全部vivo机型；三频均衡，让音乐更震撼；入耳式设计，有效阻隔噪音，尽享音乐时光；轻量化设计，佩戴舒适！",
-                    "bright": "直降10元，限时促销",
-                    "title": "vivo原装旅行充电头，支持双引擎闪充，不含数据线（ 不支持X9Plus/X20Plus低压闪充 ）",
+                    "name": "vivo XE600i headphone musik asli",
+                    "content": "[Langsung turun 10 yuan, promosi waktu terbatas] vivo headset HiFi asli, cocok untuk semua model vivo; tiga band seimbang, membuat musik lebih mengejutkan; desain in-ear, efektif memblokir kebisingan, menikmati waktu musik; desain ringan, nyaman dipakai !",
+                    "bright": "10 yuan lurus ke bawah, promosi waktu terbatas",
+                    "title": "Kepala pengisian daya perjalanan asli Vivo, mendukung pengisian daya lampu kilat mesin ganda, tanpa kabel data (tidak mendukung pengisian daya lampu kilat tegangan rendah X9Plus/X20Plus)",
                     "value": "1",
                     "price": "89",
                     "swiper": [
@@ -1335,108 +1335,108 @@
     "phone": [
         {
             "id": 1,
-            "name": "全部",
+            "name": "Semua",
             "data": [
                 {
                     "id": "1",
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/71/4171_1496689409434hd_530x530.png",
-                    "name": "X9Plus 全网通",
-                    "content": "优惠200元|限量促销",
+                    "name": "X9Plus Penuh Netcom",
+                    "content": "Diskon Rp. 200rb | Promosi terbatas",
                     "price": "2798"
                 },
                 {
                     "id": "2",
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/40/4440_1508723830538hd_530x530.png",
-                    "content": "6.43英寸大屏|0.1s快速解锁",
-                    "name": "X20Plus 全面屏",
+                    "content": "Layar besar 6,43 inci | buka kunci cepat 0,1 detik",
+                    "name": "X20+ Full Screen Layar Penuh",
                     "price": "3498"
                 },
                 {
                     "id": "3",
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/95/4495_1509454710945hd_530x530.png",
-                    "name": "Y79 全面屏手机",
-                    "content": "前置2400万像素",
+                    "name": "Ponsel layar penuh Y79",
+                    "content": "24 juta piksel",
                     "price": "2498"
                 },
                 {
                     "id": "4",
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/66/4266_1496689781362hd_530x530.png",
-                    "name": "Xplay6 128G版",
-                    "content": "后置双摄|免费镭射镌刻",
+                    "name": "Versi Xplay6 128G",
+                    "content": "Kamera ganda belakang | pengukiran laser gratis",
                     "price": "3998"
                 },
                 {
                     "id": "5",
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/11/4111_1492998667334hd_530x530.png",
-                    "name": "Y55 全网通",
-                    "content": "大屏美颜自拍",
+                    "name": "Y55 Penuh Netcom",
+                    "content": "Selfie kecantikan layar lebar",
                     "price": "1098"
                 },
                 {
                     "id": "6",
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/80/4180_1496689544465hd_530x530.png",
-                    "name": "Y66 全网通",
-                    "content": "5.5英寸大屏|支持花呗分期",
+                    "name": "Y66 Penuh Netcom",
+                    "content": "Layar besar 5,5 inci | Mendukung pementasan Huabei",
                     "price": "1298"
                 }
             ]
         },
         {
             "id": 2,
-            "name": "Xplay系列",
+            "name": "Seri Xplay",
             "data": [
                 {
                     "id": "4",
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/66/4266_1496689781362hd_530x530.png",
-                    "name": "Xplay6 128G版",
-                    "content": "后置双摄|免费镭射镌刻",
+                    "name": "Versi Xplay6 128G",
+                    "content": "Kamera ganda belakang | pengukiran laser gratis",
                     "price": "3998"
                 }
             ]
         },
         {
             "id": 3,
-            "name": "X系列",
+            "name": "seri X",
             "data": [
                 {
                     "id": "1",
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/71/4171_1496689409434hd_530x530.png",
                     "name": "X9Plus 全网通",
-                    "content": "优惠200元|限量促销",
+                    "content": "Diskon 200 yuan|Promosi terbatas",
                     "price": "2798"
                 },
                 {
                     "id": "2",
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/40/4440_1508723830538hd_530x530.png",
-                    "content": "6.43英寸大屏|0.1s快速解锁",
-                    "name": "X20Plus 全面屏",
+                    "content": "Layar besar 6,43 inci | buka kunci cepat 0,1 detik",
+                    "name": "Layar penuh X20Plus",
                     "price": "3498"
                 }
             ]
         },
         {
             "id": 4,
-            "name": "Y系列",
+            "name": "seri Y",
             "data": [
                 {
                     "id": "5",
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/11/4111_1492998667334hd_530x530.png",
-                    "name": "Y55 全网通",
-                    "content": "大屏美颜自拍",
+                    "name": "Y55 Penuh Netcom",
+                    "content": "Selfie kecantikan layar lebar",
                     "price": "1098"
                 },
                 {
                     "id": "6",
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/80/4180_1496689544465hd_530x530.png",
-                    "name": "Y66 全网通",
-                    "content": "5.5英寸大屏|支持花呗分期",
+                    "name": "Y66 Penuh Netcom",
+                    "content": "Layar besar 5,5 inci | Mendukung pementasan Huabei",
                     "price": "1298"
                 },
                 {
                     "id": "3",
                     "img_url": "https://shopstatic.vivo.com.cn/vivoshop/commodity/95/4495_1509454710945hd_530x530.png",
-                    "name": "Y79 全面屏手机",
-                    "content": "前置2400万像素",
+                    "name": "Ponsel layar penuh Y79",
+                    "content": "24 juta piksel depan",
                     "price": "2498"
                 }
             ]
@@ -1445,21 +1445,21 @@
     "news": [
         {
             "id": 1,
-            "newsTitle": "vivo X21全面屏手机五大个热门问题详解",
+            "newsTitle": "Penjelasan terperinci dari lima masalah panas ponsel layar penuh vivo X21",
             "newsImg": "https://bbsfiles.vivo.com.cn/vivobbs/attachment/portal/201804/18/211307l0sr8tqrpststut0.jpg",
-            "newsCon": "X21给人的第一感觉是比X20更加惊艳的，6.28英寸的大屏幕，19:9的屏幕比例，屏占比达到了90.3%，全面屏视野比X20更加广阔。",
+            "newsCon": "Kesan pertama X21 adalah lebih memukau daripada X20, dengan layar besar 6,28 inci, rasio layar 19:9, dan rasio layar-ke-tubuh 90,3%. lebih lebar dari X20.",
             "newsTime": "2018-4-22",
             "sc": false,
-            "newsDetail": "<img src='https://bbs.vivo.com.cn/forum.php?mod=image&aid=6487059&size=720x0&key=95498692e14f5992&type=fixnone' style='width:100%;margin-bottom: 10px' ><p style='margin-bottom: 10px';>和以往的vivo X系列不同，vivo X21这一次的包装不再沿用白色的简约设计，反而是用了深蓝色的外包装，增加了一点科技感和炫酷感。</p><img src='https://bbs.vivo.com.cn/forum.php?mod=image&aid=6487084&size=720x0&key=7f1f552b52fc3a49&type=fixnone' style='width:100%'><p style='margin-top:10px'>在附件方面，和X20一样，有透明手机壳x1、充电器、耳机一副。手机本身有原装贴膜，不过自X20开始，就没有再附送多一张贴膜了。vivo X21标配的耳机是XE680/XE710两款耳机随机发送，铛儿拿到的是XE710耳机，刚好可以和之前用过的XE600i和XE680做个对比。</p><img src='https://bbs.vivo.com.cn/forum.php?mod=image&aid=6487091&size=720x0&key=6ed55c3127662901&type=fixnone' style='width:100%;margin-bottom:10px;margin-top:10px'></img><p>XE710耳机的外形采用了人耳耳廓仿真外形的设计，佩戴起来比XE680更加舒适。铛儿的耳廓属于较小的类型，所以之前佩戴XE600i和XE680耳机时，都很容易下滑掉落，XE710的外形设计对我来说刚刚好，隔音效果也很不错，也不会像XE680一样戴久了出现耳朵疼的情况。不过，由于XE710是随机发送的，所以能不能拿到这副标配耳机全靠运气咯~</p><img src='https://bbs.vivo.com.cn/forum.php?mod=image&aid=6487095&size=720x0&key=a6f6e8aeae4cbe9c&type=fixnone' style='margin-top:10px;width:100%'></img>"
+            "newsDetail": "<img src='https://bbs.vivo.com.cn/forum.php?mod=image&aid=6487059&size=720x0&key=95498692e14f5992&type=fixnone' style='width:100%;margin-bottom: 10px' ><p style='margin-bottom: 10px';>Bentuk earphone XE710 mengadopsi desain bentuk simulasi daun telinga manusia, yang lebih nyaman dipakai daripada XE680. Daun telinga Dang'er adalah tipe kecil, jadi ketika saya memakai earphone XE600i dan XE680, mudah tergelincir dan jatuh.Bentuk XE710 pas untuk saya, dan efek insulasi suara sangat bagus, dan tidak akan seperti XE680. Setelah memakainya untuk waktu yang lama, telinga saya sakit. Namun, karena XE710 dikirim secara acak, itu tergantung pada keberuntungan jika Anda bisa mendapatkan sepasang headphone standar ini.</p><img src='https://bbs.vivo.com.cn/forum.php?mod=image&aid=6487084&size=720x0&key=7f1f552b52fc3a49&type=fixnone' style='width:100%'><p style='margin-top:10px'>在附件方面，和X20一样，有透明手机壳x1、充电器、耳机一副。手机本身有原装贴膜，不过自X20开始，就没有再附送多一张贴膜了。vivo X21标配的耳机是XE680/XE710两款耳机随机发送，铛儿拿到的是XE710耳机，刚好可以和之前用过的XE600i和XE680做个对比。</p><img src='https://bbs.vivo.com.cn/forum.php?mod=image&aid=6487091&size=720x0&key=6ed55c3127662901&type=fixnone' style='width:100%;margin-bottom:10px;margin-top:10px'></img><p>Bentuk earphone XE710 mengadopsi desain bentuk simulasi daun telinga manusia, yang lebih nyaman dipakai daripada XE680. Daun telinga Dang'er adalah tipe kecil, jadi ketika saya memakai earphone XE600i dan XE680, mudah tergelincir dan jatuh.Bentuk XE710 pas untuk saya, dan efek insulasi suara sangat bagus, dan tidak akan seperti XE680. Setelah memakainya untuk waktu yang lama, telinga saya sakit. Namun, karena XE710 dikirim secara acak, beruntunglah mendapatkan sepasang headphone standar ini，佩戴起来比XE680更加舒适。铛儿的耳廓属于较小的类型，所以之前佩戴XE600i和XE680耳机时，都很容易下滑掉落，XE710的外形设计对我来说刚刚好，隔音效果也很不错，也不会像XE680一样戴久了出现耳朵疼的情况。不过，由于XE710是随机发送的，所以能不能拿到这副标配耳机全靠运气咯~</p><img src='https://bbs.vivo.com.cn/forum.php?mod=image&aid=6487095&size=720x0&key=a6f6e8aeae4cbe9c&type=fixnone' style='margin-top:10px;width:100%'></img>"
         },
         {
             "id": 2,
-            "newsTitle": "vivo X21屏幕指纹版，黑科技多到爆",
+            "newsTitle": "Versi sidik jari layar Vivo X21, teknologi hitam meledak",
             "newsImg": "https://bbsfiles.vivo.com.cn/vivobbs/attachment/portal/201804/12/190408w8123imwv3w22z4t.jpg",
-            "newsCon": "vivo X21屏幕指纹版已经是vivo第二款屏幕指纹手机'简称X21UD'，也是目前全世界在售手机中唯一一款屏幕指纹解锁手机。",
+            "newsCon": "Versi sidik jari layar vivo X21 sudah merupakan ponsel sidik jari layar kedua vivo 'X21UD', dan ini juga merupakan satu-satunya ponsel yang tidak terkunci dengan sidik jari layar yang saat ini dijual di dunia.",
             "newsTime": "2018-4-22",
             "sc": false,
-            "newsDetail": "<p>有句话说的好「销量就能证明这产品好不好」，虽然只是片面之词其中会有很多因素在里面，对于全球销售前五的vivo来说，创新和提供用户需求才是赢得用户的拥护，这次vivo发布全新手机X21，并同时发布一款全球最领先水平的vivo X21屏幕指纹版，它已经是vivo第二款屏幕指纹手机（简称X21UD），也是目前全世界在售手机中唯一一款屏幕指纹解锁手机。</p><p style='margin-top:10px;margin-bottom:10px'>vivo X21UD对于我一直长期使用vivo的老用户还是有不错的升级，比如异形全面屏、红外辅助让面脸识别在暗光下也能快速解锁，更舒服的导航手势、Jovi人工智能真正能让我感受到它的用处、首款基于P3色域能够自动色彩管理的安卓手机、安卓唯一P3色域炫彩相机、逆光拍照和夜景效果同样让人惊喜。</p><h3>vivo X21屏幕指纹版图鉴分享</h3><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105458fzaood0zl00hnn50.jpg.thumb.jpg' style='margin-top:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105456fj42zdjz11hvnt1x.jpg.thumb.jpg' style='margin-bottom:10px;margin-top:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105519q2b6n2o6ok3gzo7u.jpg.thumb.jpg' style='margin-bottom:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105500b2grsdfg2sg2adgg.jpg.thumb.jpg' style='margin-bottom:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105502f06vscmsbtwt7sg8.jpg.thumb.jpg' style='margin-bottom:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105515orhr2gikk49hkmjz.jpg.thumb.jpg' style='margin-bottom:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105517x0nn0nkzyn0ltlnh.jpg.thumb.jpg' style='margin-bottom:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105518dq7sz6pbxhaps37z.jpg.thumb.jpg' style='margin-bottom:10px;width:100%'>"
+            "newsDetail": "<p>Ada pepatah yang mengatakan 'penjualan bisa membuktikan produk ini bagus atau tidak'，Meskipun itu hanya kata sepihak, ada banyak faktor di dalamnya，Untuk lima besar penjualan global vivo, inovasi dan penyediaan kebutuhan pengguna adalah untuk memenangkan dukungan pengguna Kali ini, vivo merilis ponsel baru X21, dan pada saat yang sama merilis versi sidik jari layar vivo X21 terkemuka di dunia, itu sudah vivo Ponsel sidik jari layar kedua (disingkat X21UD), yang juga merupakan satu-satunya ponsel tanpa sidik jari layar yang saat ini dijual di dunia</p><p style='margin-top:10px;margin-bottom:10px'>Vivo X21UD masih memiliki peningkatan yang baik untuk pengguna lama saya yang telah menggunakan vivo untuk waktu yang lama, misalnya, layar berbentuk penuh dan bantuan inframerah memungkinkan pengenalan wajah dibuka dengan cepat dalam cahaya rendah.，Gerakan navigasi yang lebih nyaman, kecerdasan buatan Jovi benar-benar dapat membuat saya merasakan kegunaannya, ponsel Android pertama dengan manajemen warna otomatis berdasarkan gamut warna P3, satu-satunya kamera warna gamut warna P3 Android, fotografi lampu latar dan efek pemandangan malam juga kejutan yang mengesankan.</p><h3>Berbagi ilustrasi versi sidik jari layar Vivo X21</h3><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105458fzaood0zl00hnn50.jpg.thumb.jpg' style='margin-top:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105456fj42zdjz11hvnt1x.jpg.thumb.jpg' style='margin-bottom:10px;margin-top:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105519q2b6n2o6ok3gzo7u.jpg.thumb.jpg' style='margin-bottom:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105500b2grsdfg2sg2adgg.jpg.thumb.jpg' style='margin-bottom:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105502f06vscmsbtwt7sg8.jpg.thumb.jpg' style='margin-bottom:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105515orhr2gikk49hkmjz.jpg.thumb.jpg' style='margin-bottom:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105517x0nn0nkzyn0ltlnh.jpg.thumb.jpg' style='margin-bottom:10px;width:100%'><img src='https://bbsfiles.vivo.com.cn/vivobbs/attachment/forum/201804/04/105518dq7sz6pbxhaps37z.jpg.thumb.jpg' style='margin-bottom:10px;width:100%'>"
         },
         {
             "id": 3,

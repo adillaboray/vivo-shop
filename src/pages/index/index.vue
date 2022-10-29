@@ -31,7 +31,7 @@
                         </div>
                         <p class="name">{{v.name}}</p>
                         <p class="nametwo">{{v.content}}</p>
-                        <p class="price">￥ {{toFixed(v.price)}} </p>
+                        <p class="price">Rp. {{toFixed(v.price)}} </p>
                     </div>
                 </li>
             </ul>  
@@ -43,6 +43,7 @@
 <script>
 import { getData } from '@/api/data'
 import footer from "@/components/footer/index";
+
 export default {
   name: "index",
   data() {

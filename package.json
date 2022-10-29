@@ -1,7 +1,7 @@
 {
-  "name": "apptwo",
+  "name": "vivo_shop",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Vue.js mobile UI E-commerce template",
   "author": "Mynameisfwk <2239657654@qq.com>",
   "private": true,
   "scripts": {
